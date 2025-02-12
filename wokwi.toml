@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/AtividadeT7U4.hex'
+elf = 'build/AtividadeT7U4.elf'
